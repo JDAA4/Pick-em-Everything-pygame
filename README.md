@@ -5,9 +5,10 @@
 Pick-em-Everything es un juego desarrollado con Pygame donde el jugador debe recoger objetos y evitar obstáculos en diferentes niveles. El juego incluye un menú principal, opciones de configuración y una pantalla de créditos.
 
 ![Demo del menu](/assets/pygame1.gif)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![Demo del juego](/assets/pygame2.gif)*
+![Demo del juego](/assets/pygame2.gif)
 
 ## Instalación
 Clona el repositorio:
